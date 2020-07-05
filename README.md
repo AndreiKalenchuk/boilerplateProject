@@ -1,17 +1,16 @@
-#####Sample and ready to use boilerplate project for e2e ui test automation with user as the QA Engineer in mind.
-###This boilerplate includes the following:
+##### Sample and ready to use boilerplate project for e2e ui test automation with user as the QA Engineer in mind.
+### This boilerplate includes the following:
 
-#####Frameworks:
+##### Frameworks:
     WebdriverIO (v6)
     Mocha
-#####Features:
+##### Features:
 - Page Object Model
-
 - Allure Report
 - Automatic screenshots capture for failing tests
 - ESLint
 
-#####Download a release or clone the project
+##### Download a release or clone the project
 Install:
 ```npm install```
 
